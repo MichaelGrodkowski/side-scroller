@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: destroy
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":0.25,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-49.0,"y":-172.0},"guid":"fe9773ad-02a8-4c80-8c61-f8b8a351e027","$version":"A","$type":"Bolt.OnParticleCollision"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"84aac0fa-16f0-48d2-bffe-69fcb42bb842","$version":"A","$type":"Bolt.Update"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"0e9d36eb-183d-44c9-9825-724b40548d65","$version":"A","$type":"Bolt.Start"}],"$version":"A"}}'
+    _objectReferences: []
